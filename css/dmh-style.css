@@ -1,0 +1,33 @@
+@font-face {
+  font-family: kim;
+  src: url(../fonts/kimberley.ttf);
+}
+.dmh.darken-4{
+    background-color:rgb(0, 0, 128);
+}
+.dmh-logo{
+    max-width:120px;
+    margin-top:-16px;
+}
+.dmh-start{
+    max-width:20vmax;
+}
+.dmh-desc{
+    max-width:50vmax;
+}
+.parallax-opacity{
+opacity:0.9;
+}
+.gen-font{
+    font-family: kim;
+    -webkit-text-stroke-width: .8px;
+    -webkit-text-stroke-color:black;
+}
+.slider-logo{
+    filter:grayscale(100%)
+}
+.dmh-desctext{
+    font-family: kim;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:black;
+}
