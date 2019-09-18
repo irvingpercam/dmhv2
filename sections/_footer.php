@@ -1,6 +1,6 @@
 <div class="footer-copyright">
       <div class="container">
-      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+      Made by <a class="text-grey text-darken-4- light-blue" href="http://materializecss.com">Materialize</a>
       </div>
     </div>
   </footer>

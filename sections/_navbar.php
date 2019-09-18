@@ -16,7 +16,7 @@
                     </div>
                 </nav>
             </div>
-                <ul class="sidenav blue darken-2" id="mobile-demo">
+                <ul class="sidenav light-blue darken-2" id="mobile-demo">
                     <li><a class="white-text gen-font" href="index.php"><i class="material-icons white-text">home</i>Inicio</a></li>
                     <li><a class="white-text gen-font" href="views/alumnos.php"><i class="material-icons white-text">people</i>Nosotros</a></li>
                     <li><a class="white-text gen-font" href="views/sensei.php"><i class="material-icons white-text">fiber_new</i>Novedades</a></li>
