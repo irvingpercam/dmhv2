@@ -59,11 +59,11 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+          <h5 class="header col s12 light gen-font">Soluciones para la industria moderna.</h5>
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax parallax-opacity"><img src="img/inicio/construction.jpg" alt="Industria Moderna"></div>
   </div>
 
   <div class="container">
@@ -75,25 +75,25 @@
             <h2 class="center text-dmh darken-4"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Puntualidad</h5>
 
-            <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+            <p class="light justify">Como empresa líder, es nuestro compromiso entregar productos en tiempo y forma a todos nuestros clientes.</p>
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center text-dmh darken-4"><i class="material-icons">group</i></h2>
+            <h2 class="center text-dmh darken-4"><i class="material-icons">check_circle</i></h2>
             <h5 class="center">Calidad</h5>
 
-            <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+            <p class="light justify">Garantizamos la satisfacción de nuestros clientes, ofreciendo únicamente productos de alta calidad.</p>
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center text-dmh darken-4"><i class="material-icons">settings</i></h2>
+            <h2 class="center text-dmh darken-4"><i class="material-icons">attach_money</i></h2>
             <h5 class="center">Precios</h5>
 
-            <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+            <p class="light justify">La mejor relación calidad-precio en la distribución de materiales y maquinaria.</p>
           </div>
         </div>
       </div>
@@ -113,12 +113,12 @@
     <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
   </div>
 
-  <footer class="page-footer teal">
+  <footer class="page-footer light-blue">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
-          <h5 class="white-text">Company Bio</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+          <h5 class="white-text">DMH México</h5>
+          <p class="grey-text text-lighten-4">Empresa líder en la distribución de maquinaria y herramientas en el estado de Querétaro.</p>
 
 
         </div>

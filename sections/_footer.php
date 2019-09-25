@@ -1,6 +1,6 @@
-<div class="footer-copyright">
+<div class="footer-copyright light-blue darken-2">
       <div class="container">
-      Made by <a class="text-grey text-darken-4- light-blue" href="http://materializecss.com">Materialize</a>
+      Derechos Reservados © Distribuidora de Maquinaria y Herramientas, Corporación México, S.A. de C.V. 2019. Sitio desarrollado por <a class="white-text" href="http://materializecss.com">A'Bak Soluciones Web</a>
       </div>
     </div>
   </footer>

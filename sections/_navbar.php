@@ -2,6 +2,7 @@
 <div class="navbar-fixed"> 
             <nav>
                 <div class="nav-wrapper light-blue darken-2">
+                <div class="nav-wrapper">
                     <a href="index.php" class="brand-logo">
                         <img class="dmh-logo" src="img/dmh-logo.png" alt="Logo DMH">
                     </a>
